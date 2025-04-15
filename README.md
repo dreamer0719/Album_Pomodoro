@@ -1,4 +1,4 @@
-# Pixeled Animal-Themed Pomodoro
+# Pomodoro with Four-Legs Friends!
 A minimal Pomodoro that will help you manage time, productive! But it also contains multiple cute animals of **your choice**! Not only a cute aesthetic, the cute animals are proven to help you relax when stressing out, making it easier to solve the problem that you might have been stuck on for hours! 
 
 ## Screenshots
