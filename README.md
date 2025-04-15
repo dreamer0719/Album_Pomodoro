@@ -20,6 +20,7 @@ PLACE HOLDER
 - **Task/TO-DO List**: Add and organize tasks that you need to get done for the day! This task can have a deadline, tags (subjects, etc.), notes, direction, etc. These lists could also be synced to the *TO-DO List Management* (another application made by me).
 - **Reward system**: You could set rewards after a specific amount of time (like a snack, episodes, etc.). This will trick your brain to produce dopamine, helping you feel relaxing when study/working. 
 - **Time Tracker**: Record the total times you are in and the number of Pomodoros.
+- **Music/ Background noises**: Help you relax :D
 
 ## License
 PLACE HOLDER
