@@ -11,9 +11,6 @@ PLACE HOLDER
 1. 
 2. 
 
-## Language & Third-parties application used
-- **PLACE HOLDER**
-
 ## Upcoming Features
 - **Custom Pomodoro Timer**: Divide time into *25 minutes* of work with a *5 minutes break* (short break). After 4 Pomodoros, there will be a *15-minute break* (long break). These work and breaks can be customized based on your preferences!
 - **Cute Fur Friends**: Contains cute drawings of the animals that your choice. These furry friends have multiple statuses that you can choose or will be randomized after a specific time (such as chilling, eating, sleeping, playing!). 
@@ -21,6 +18,9 @@ PLACE HOLDER
 - **Reward system**: You could set rewards after a specific amount of time (like a snack, episodes, etc.). This will trick your brain to produce dopamine, helping you feel relaxing when study/working. 
 - **History**: Record the total times you are in and the number of Pomodoros. It also includes tasks that you've done.
 - **Music/ Background noises**: Help you relax :D
+
+## Language & Third-parties application used
+- **PLACE HOLDER**
 
 ## License
 PLACE HOLDER
